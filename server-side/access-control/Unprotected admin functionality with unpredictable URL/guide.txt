@@ -1,0 +1,17 @@
+Browse and trigger a POST to /login. The response contains the next
+
+<script>
+var isAdmin = false;
+if (isAdmin) {
+   var topLinksTag = document.getElementsByClassName("top-links")[0];
+   var adminPanelTag = document.createElement('a');
+   adminPanelTag.setAttribute('href', '/admin-u50slu');
+   adminPanelTag.innerText = 'Admin panel';
+   topLinksTag.append(adminPanelTag);
+   var pTag = document.createElement('p');
+   pTag.innerText = '|';
+   topLinksTag.appendChild(pTag);
+}
+</script>
+
+Note the /admin-u50slu. Just go there and delete the user carlos.

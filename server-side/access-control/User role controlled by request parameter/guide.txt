@@ -1,0 +1,3 @@
+Login with wiener:peter. Note a new cookie named "Admin" is set as false.
+
+Change it to true and reload the website. The admin panel option should show up.

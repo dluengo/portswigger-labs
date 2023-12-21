@@ -1,0 +1,4 @@
+Login as wiener:peter. Observe the page /my-account receives a parameter with the
+the username. Request it passing "administrator". The response has the password masked.
+Simply look at the source and copy it. Login as administrator and delete user carlos
+in the admin panel.

@@ -1,0 +1,13 @@
+Go the a product's page and check the stop by clicking on the button.
+
+Note the request includes a URL, presumably where the server sends a
+request to ask for the stock.
+
+Intercept such request and change the URL to http://localhost/admin
+
+The page returned has an option to delete user carlos, click on it. It
+will fail as our client cannot make such request, but now we got the
+request performing such action.
+
+Intercept again our request checking for the stock and change the URL
+to http://localhost/<URL performing the deletion>. Check poc.txt

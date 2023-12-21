@@ -1,0 +1,7 @@
+Attempt a random login.
+
+Send the POST to Intruder. With the username dictionary provided by portswigger
+launch a brute force attack on the username. Pay attention to the length of the
+responses, one of the should differ from the rest. That's the username.
+
+Now launch another attack brute forcing the passwords.

@@ -1,0 +1,5 @@
+Login as wiener:peter. Observe that posts contain the user IDs of their authors.
+
+Look for a post posted by carlos, or bruteforce all posts with intruder, as they use sequential IDs.
+
+Take the GUID from carlos and request my-account passing their GUID, there is the API key.

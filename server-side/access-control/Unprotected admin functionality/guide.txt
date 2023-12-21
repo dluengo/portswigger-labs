@@ -1,0 +1,1 @@
+Access /robots.txt. Observe path /administrator-panel. Go to that url directly, no protection at all.
